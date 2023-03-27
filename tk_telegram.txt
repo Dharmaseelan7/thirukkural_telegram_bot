@@ -1,0 +1,17 @@
+thirukkural bot telegram
+
+start => welcome \help
+
+help => available commands
+
+choose language tamil or english
+
+available commands => 1 thirukkural basic info
+                      2 thirukkural chapters
+                      3 get chapterwise thirukkural
+                      4 get thirukkural individualy 
+                      5 get meaning 
+
+
+                      
+thank you command
