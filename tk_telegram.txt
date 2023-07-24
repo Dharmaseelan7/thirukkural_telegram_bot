@@ -9,7 +9,7 @@ choose language tamil or english
 available commands => 1 thirukkural basic info
                       2 thirukkural chapters
                       3 get chapterwise thirukkural
-                      4 get thirukkural individualy 
+                      4 get thirukkural individually 
                       5 get meaning 
 
 
